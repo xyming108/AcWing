@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e55c1568-7e1d-4d9e-838c-8ffd7aa43eb1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/一_基础算法/a3_二分/range_of_number.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/一_基础算法/快速排序.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/QuickSort_1.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/The_Kth_number_2.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/MergeSort_3.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a1_QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a2_The_Kth_number.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a3_MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a4_reverse_order_pairs.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a2_归并排序/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a2_归并排序/reverse_order_pairs.java" />
+        <option value="$PROJECT_DIR$/src/一_基础算法/a3_二分/range_of_number.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="906" />
+    <option name="width" value="1019" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AcWing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AcWing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AcWing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AcWing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AcWing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AcWing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="一_基础算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AcWing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AcWing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="一_基础算法" type="462c0819:PsiDirectoryNode" />
+              <item name="a3_二分" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.23483147" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.reverse_order_pairs">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一_基础算法.a2_归并排序.MergeSort" />
+      <module name="AcWing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一_基础算法.a1_快速排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一_基础算法.a1_快速排序.QuickSort" />
+      <module name="AcWing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一_基础算法.a1_快速排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="The_Kth_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一_基础算法.a1_快速排序.The_Kth_number" />
+      <module name="AcWing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一_基础算法.a1_快速排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_order_pairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一_基础算法.a2_归并排序.reverse_order_pairs" />
+      <module name="AcWing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一_基础算法.a2_归并排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.The_Kth_number" />
+      <item itemvalue="Application.reverse_order_pairs" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reverse_order_pairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="726" y="0" width="814" height="840" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.30371353" />
+      <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.3147651" />
+      <window_info id="设计师" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50141245" side_tool="true" weight="0.31413612" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Web" order="8" side_tool="true" weight="0.21496598" />
+      <window_info anchor="bottom" id="运行" order="0" weight="0.32909605" />
+      <window_info anchor="bottom" id="调试" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" weight="0.32909605" />
+      <window_info anchor="bottom" id="Find" order="3" sideWeight="0.49929675" weight="0.3281471" />
+      <window_info anchor="bottom" id="消息" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49463087" weight="0.34428573" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49798658" weight="0.3942857" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32768363" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32909605" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5053691" side_tool="true" weight="0.41666666" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.4969988" weight="0.32714286" />
+      <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
+      <window_info anchor="bottom" id="Application Servers" order="17" weight="0.32909605" />
+      <window_info anchor="bottom" id="Database Console" order="18" weight="0.32831737" />
+      <window_info anchor="bottom" id="Java Enterprise" order="19" weight="0.32768363" />
+      <window_info anchor="bottom" id="SonarLint" order="20" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.22013423" />
+      <window_info anchor="right" id="控制板" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.22751679" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.20067114" />
+      <window_info anchor="right" id="Palette" order="9" />
+      <window_info anchor="right" x="735" y="124" width="683" height="458" id="aiXcoder" order="10" weight="0.25260416" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/一_基础算法/a1_快速排序/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一_基础算法/a1_快速排序/The_Kth_number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一_基础算法/a2_归并排序/reverse_order_pairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#713#722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一_基础算法/a2_归并排序/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一_基础算法/a3_二分/range_of_number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AcWing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>AcWing</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
